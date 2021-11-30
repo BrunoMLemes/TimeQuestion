@@ -1,5 +1,5 @@
 # TimeQuestion
-Perguntador de horario simples.
+Horario simples.
 using System;
 using System.Collections.Generic;
 using System.Linq;
